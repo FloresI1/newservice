@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/gofiber/fiber/v2"
-	" newservice/internal/database"
+	"github.com/FloresI1/newservice/internal/database/db"
 )
 
 /*
